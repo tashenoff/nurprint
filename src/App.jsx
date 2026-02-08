@@ -346,24 +346,6 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="card p-6 bg-gradient-to-br from-brand-blue/40 to-brand-yellow/30 border border-white/10">
-              <h3 className="text-xl font-extrabold text-white mb-3">Получить смету</h3>
-              <p className="text-sm text-slate-100 mb-4">
-                Отправьте модель принтера и сколько картриджей нужно заправить. Ответим в течение
-                10 минут.
-              </p>
-              <div className="space-y-3 text-sm">
-                <div className="glass rounded-xl p-4 border border-white/10">
-                  <p className="text-xs text-slate-400 uppercase">Email</p>
-                  <a
-                    href="mailto:service@nurprint.kz"
-                    className="text-white font-semibold hover:text-brand-yellow transition"
-                  >
-                    service@nurprint.kz
-                  </a>
-                </div>
-              </div>
-            </div>
           </div>
         </Section>
       </main>
