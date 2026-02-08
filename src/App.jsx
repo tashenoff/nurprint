@@ -362,11 +362,6 @@ function App() {
                     service@nurprint.kz
                   </a>
                 </div>
-                <div className="glass rounded-xl p-4 border border-white/10">
-                  <p className="text-xs text-slate-400 uppercase">Адрес</p>
-                  <p className="text-slate-100">г. Алматы, ул. Деловая, 12</p>
-                  <p className="text-slate-400">Склад и офис выдачи</p>
-                </div>
               </div>
             </div>
           </div>
