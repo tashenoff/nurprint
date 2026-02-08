@@ -244,7 +244,7 @@ function App() {
 
         <Section id="process" title="Работаем прозрачно" subtitle="4 шага">
           <div className="relative">
-            <div className="absolute left-3 md:left-6 top-4 bottom-4 w-[2px] bg-gradient-to-b from-brand-yellow to-brand-blue" />
+            <div className="absolute left-4 top-4 bottom-4 w-[2px] bg-gradient-to-b from-brand-yellow to-brand-blue" />
             <div className="space-y-8">
               {steps.map((step, idx) => (
                 <div key={step} className="relative pl-10 md:pl-14">
@@ -265,7 +265,7 @@ function App() {
           </div>
         </Section>
 
-        <Section id="pricing" title="Тарифы под любую нагрузку" subtitle="Без цен — только условия">
+        <Section id="pricing" title="Тарифы под любую нагрузку" subtitle="Подбираем формат под ваш парк">
           <div className="grid md:grid-cols-3 gap-6">
             {plans.map((plan) => (
               <div
