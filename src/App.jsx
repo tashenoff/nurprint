@@ -1,6 +1,6 @@
-const whatsappNumber = '+7 747 458 9107';
-const whatsappLink = 'https://wa.me/77474589107';
-const phoneNumber = '87029427029';
+const whatsappNumber = '+7 777-115-99-30';
+const whatsappLink = 'https://wa.me/7771159930';
+const phoneNumber = '87771159930';
 
 const features = [
   {
